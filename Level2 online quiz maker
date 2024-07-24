@@ -1,0 +1,4 @@
+//ONLINE QUIZ MAKER
+npx create-react-app quiz-platform
+cd quiz-platform
+npm install react-router-dom axios react-hook-form
